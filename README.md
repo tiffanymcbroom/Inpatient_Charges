@@ -1,5 +1,7 @@
 # Inpatient_Charges
 
-Inpatient charges by state
+Inpatient charges by State
 
-test
+Open Jupyter Notebook and hit run
+Use SQlite
+Use Pandas

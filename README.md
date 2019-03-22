@@ -1,8 +1,11 @@
 # Inpatient_Charges
 
 You will need to...
+
 Open Jupyter Notebook and hit run
+
 Use SQlite3
+
 Use Pandas
 
 A csv file of Inpatient Charges was used to answer the following questions:
